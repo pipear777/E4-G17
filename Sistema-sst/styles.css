@@ -1,0 +1,9 @@
+.body {
+    background: orange;
+    background: linear-gradient(to right, orange);
+}
+
+.bg {
+    background-image: url(images/login.jpg);
+    background-position: center center;
+}
